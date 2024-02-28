@@ -1,2 +1,2 @@
 # FirebaseQT-POST-Request-
-A continuation og the get request involving firebase
+A continuation of the get request involving firebase (test environment)
